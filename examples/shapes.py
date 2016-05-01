@@ -1,6 +1,6 @@
 import time
 
-import _Nokia_LCD as LCD
+import Nokia_LCD as LCD
 import Adafruit_GPIO.SPI as SPI
 
 from PIL import Image
